@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **bilalemirucar@outlook.com**
 
-- 📄 Curriculum Vitae : [https://drive.google.com/file/d/1UdXfgZ9VVZ2PIsBUB4hVCy_AlV2hFJ6J/view?usp=drive_link]([https://drive.google.com/file/d/1UdXfgZ9VVZ2PIsBUB4hVCy_AlV2hFJ6J/view?usp=sharing])
+- 📄 Curriculum Vitae : [https://drive.google.com/file/d/1UdXfgZ9VVZ2PIsBUB4hVCy_AlV2hFJ6J/view?usp=drive_link](https://drive.google.com/file/d/1UdXfgZ9VVZ2PIsBUB4hVCy_AlV2hFJ6J/view?usp=sharing)
 
 
 
