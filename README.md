@@ -4,7 +4,7 @@
 
 - 🔭 I am actively working on **machine learning and deep learning applications for cyber security.**
   
-- 📝 For my academic studies : [https://www.researchgate.net/profile/Bilal-Ucar](https://www.researchgate.net/profile/Bilal-Ucar)
+- 📝 For my academic studies : [[https://www.researchgate.net/profile/Bilal-Ucar](https://www.researchgate.net/profile/Bilal-Ucar](https://scholar.google.com/citations?user=AfIv28kAAAAJ&hl=tr))
 
 - 📫 How to reach me **bilalemirucar@outlook.com**
 
