@@ -2,13 +2,9 @@
 <h1 align="center">I'm Bilal Emir Uçar</h1>
 <h3 align="center">Undergraduate Researcher At Kadir Has University Research Center</h3>
 
-- 🔭 I am actively working on **machine learning and deep learning applications for cyber security.**
+- ML engineer at Kodiks Bilişim.**
   
-- 📝 For my academic studies : [https://scholar.google.com/citations?user=AfIv28kAAAAJ&hl=tr]
 
-- 📫 How to reach me **bilalemirucar@outlook.com**
-
-- 📄 Curriculum Vitae : [https://drive.google.com/file/d/1UdXfgZ9VVZ2PIsBUB4hVCy_AlV2hFJ6J/view?usp=drive_link](https://drive.google.com/file/d/1UdXfgZ9VVZ2PIsBUB4hVCy_AlV2hFJ6J/view?usp=sharing)
 
 
 
